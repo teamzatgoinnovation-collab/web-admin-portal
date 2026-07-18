@@ -1,0 +1,5 @@
+import { ConnectionPage } from "@/components/pages/ConnectionPage";
+
+export default function Page() {
+  return <ConnectionPage />;
+}
